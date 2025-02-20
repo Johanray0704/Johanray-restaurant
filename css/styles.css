@@ -102,13 +102,14 @@ img {
 .navbar {
   padding: 2rem 0;
 }
-.navbar a{
+.nav-list a {
   color: black; 
   text-decoration: none; 
   transition: color 0.3s ease; 
 }
-.navbar a:hover{
-  color:#5bf188;
+
+.nav-list a:hover {
+  color: #ff6347; 
 }
 .navbar .row {
   justify-content: space-between;
